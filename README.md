@@ -11,4 +11,4 @@ Favorite game: Fortnite
 - 🔭 I’m currently working on Yozora Optimizer
 - 📫 How to reach me: Discord (yozorafn)
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I don't want to live
+- ⚡ Fun fact: I have been diagnosed with depression
