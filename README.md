@@ -11,4 +11,4 @@ Favorite game: Fortnite
 - 🔭 I’m currently working on Yozoraxia
 - 📫 How to reach me: Discord (yozorafn_)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been diagnosed with depression
+- ⚡ Sad fact: I have been diagnosed with depression
