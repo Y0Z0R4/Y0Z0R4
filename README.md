@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am little kiddo who plays fortnite and likes developing and ethical hacking
+I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript
 
 About me
 
@@ -8,7 +8,7 @@ My favorite artist: Alan Walker
 
 Favorite game: Fortnite
 
-- 🔭 I’m currently working on Yozora Optimizer
-- 📫 How to reach me: Discord (yozorafn)
+- 🔭 I’m currently working on Yozoraxia
+- 📫 How to reach me: Discord (yozorafn_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been diagnosed with depression
