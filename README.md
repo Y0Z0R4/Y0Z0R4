@@ -6,9 +6,7 @@ About me
 
 My favorite artist: Alan Walker 
 
-Favorite game: Fortnite
 
-- 🔭 I’m currently working on Yozoraxia
-- 📫 How to reach me: Discord (yozorafn_)
+- 🔭 I’m currently working on PhantomShadow
+- 📫 How to reach me: Discord (shadowplayzfn)
 - 😄 Pronouns: he/him
-- ⚡ Sad fact: I have been diagnosed with depression
