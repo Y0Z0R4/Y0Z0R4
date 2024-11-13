@@ -7,6 +7,6 @@ About me
 My favorite artist: Alan Walker 
 
 
-- 🔭 I’m currently working on PhantomShadow
+- 🔭 I’m currently working on Forever Client & Yozoraxia Client
 - 📫 How to reach me: Discord (shadowplayzfn)
 - 😄 Pronouns: he/him
