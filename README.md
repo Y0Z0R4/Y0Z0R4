@@ -17,4 +17,4 @@ I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YozoraFN&show_icons=true&theme=radical)
