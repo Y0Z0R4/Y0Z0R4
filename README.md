@@ -6,7 +6,7 @@ I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript.
 
 - 🎵 **Favorite Artist**: Alan Walker
 - 🔭 **Currently Working On**: Forever Client & Yozoraxia Client
-- 📫 **How to Reach Me**: Discord (ssh.key) and Telegram t.me/HumanIsNotFound
+- 📫 **How to Reach Me**: Discord (ssh.key) and Telegram https://t.me/HumanIsNotFound
 - 😄 **Pronouns**: he/him
 
 ## Skills
