@@ -5,8 +5,8 @@ I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript.
 ## About Me
 
 - 🎵 **Favorite Artist**: Alan Walker
-- 🔭 **Currently Working On**: Forever Client & Yozoraxia Client
-- 📫 **How to Reach Me**: Discord (ssh.key) and Telegram https://t.me/HumanIsNotFound
+- 🔭 **Currently Working On**: Phantom
+- 📫 **How to Reach Me**: You cant lol
 - 😄 **Pronouns**: he/him
 
 ## Skills
