@@ -4,7 +4,6 @@ I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript.
 
 ## About Me
 
-- 🎵 **Favorite Artist**: Alan Walker
 - 🔭 **Currently Working On**: Phantom
 - 📫 **How to Reach Me**: You cant lol
 - 😄 **Pronouns**: he/him
