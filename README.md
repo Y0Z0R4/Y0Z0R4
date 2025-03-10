@@ -4,7 +4,7 @@ I am little kiddo who knows how to code in Java, CSS, HTML, Python, JavaScript.
 
 ## About Me
 
-- 🔭 **Currently Working On**: Phantom
+- 🔭 **Currently Working On**: Cats
 - 📫 **How to Reach Me**: You cant lol
 - 😄 **Pronouns**: he/him
 
